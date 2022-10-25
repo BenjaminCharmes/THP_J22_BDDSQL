@@ -1,8 +1,9 @@
 # Struture de la DBB:
 
-| users |
+| users                                  |
+|----------------------------------------|
 | id | INTEGER PRIMARY KEY AUTOINCREMENT |
-| name | TEXT |
+| name | TEXT                            |
 
 | article |
 | id | INTEGER PRIMARY KEY AUTOINCREMENT |
