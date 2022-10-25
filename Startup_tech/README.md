@@ -5,17 +5,20 @@
 | id | INTEGER PRIMARY KEY AUTOINCREMENT |
 | name | TEXT                            |
 
-| article|
+| Table 2 | article |
+| --- | --- |
 | id | INTEGER PRIMARY KEY AUTOINCREMENT |
 | user_id | INTEGER |
 | category_id | INTEGER |
 
-| category |
+| Table 3 | category |
+| --- | --- |
 | id | INTEGER PRIMARY KEY AUTOINCREMENT |
 | title | TEXT |
 | article_id | INTEGER |
 
-| tag |
+| Table 4 | tag |
+| --- | --- |
 | id | INTEGER PRIMARY KEY AUTOINCREMENT |
 | title | TEXT |
 | color | TEXT |
