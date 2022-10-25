@@ -14,12 +14,12 @@
 | Table 3: | category |
 | --- | --- |
 | id | INTEGER PRIMARY KEY AUTOINCREMENT |
-| title | TEXT |
 | article_id | INTEGER |
+| title | TEXT |
 
 | Table 4: | tag |
 | --- | --- |
 | id | INTEGER PRIMARY KEY AUTOINCREMENT |
+| category_id | INTEGER |
 | title | TEXT |
 | color | TEXT |
-| category_id | INTEGER |
