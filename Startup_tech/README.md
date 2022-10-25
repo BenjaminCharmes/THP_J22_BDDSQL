@@ -1,11 +1,11 @@
 # Struture de la DBB:
 
-| users                                  |
-|----------------------------------------|
+| Table 1 | users                        |
+|-------------------|--------------------|
 | id | INTEGER PRIMARY KEY AUTOINCREMENT |
 | name | TEXT                            |
 
-| article |
+| article|
 | id | INTEGER PRIMARY KEY AUTOINCREMENT |
 | user_id | INTEGER |
 | category_id | INTEGER |
