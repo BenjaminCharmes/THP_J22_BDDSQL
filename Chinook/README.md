@@ -2,15 +2,15 @@
 
 - Récupérer tous les albums:
 
-```shell
-SELECT * FROM albums;
-``` 
+  ```shell
+  SELECT * FROM albums;
+  ``` 
 
-Ou, pour avoir seulement les titres:
+  Ou, pour avoir seulement les titres:
 
-```shell
-SELECT Title FROM albums;
-``` 
+  ```shell
+  SELECT Title FROM albums;
+  ``` 
 
 - Récupérer tous les albums dont le titre contient "Great" (indice):
 
