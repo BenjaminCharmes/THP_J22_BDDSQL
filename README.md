@@ -1,6 +1,6 @@
 <h1 align="center">Day 22 of The Hacking Project: SQLite</h1>
 
-Here are all the exercises in Ruby from day 21 of The Hacking Project: Discovering SQL with SQLite3.
+Here are all the exercises in Ruby from day 22 of The Hacking Project: Discovering SQL with SQLite3.
 
 <h2 align="center">🎉 Day 7 of the Full Stack training 🎉</h2>
 
